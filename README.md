@@ -1,10 +1,56 @@
-- 👋 Hi, I’m @Shahibbh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Shahibbh/Shahibbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Binings
+    - bgfx:Update to API version 122(up from 118)
+        -- macOS: support for the OpenGL backend has been dropped.
+    - EGL:Added latest extensions.
+        -- EGL_EXT_gl_colorspace_bt2020_hlg
+    - FOMD:Update to 2.02.16(up from 2.02.13)
+    - freetype: Updated to 2.13.2 (up from 2.13.0)
+    - harfbuzz: Updated to 8.2.0 (up from 7.1.0)
+    - hwloc: Updated to 2.9.3 (up from 2.9.0)
+    - KTX: Updated to 4.3.0-alpha3 (up from 4.1.0-rc3)
+    - liburing: Updatedto 2.4 (up from 2.4-dev)
+    - lmdb: Updated to 0.9.31 (up from 0.9.30)
+    - meshoptimizer: Updated to 0.19 (up from 0.18)
+    - NativeFileDialog: Updated to 1.1.0 (up from 1.0.2)
+        -- Added Configuration.NFD_LINUX_PORTAL wich enables the XDG Desktop Portal backend on Linux.(#893)
+    - Nuklear: Updated to 4.10.6(up from 4.10.5)
+    - OpenAL Soft: Updated to 1.23.1 (up from 1.23.1)
+        -- Added AL_SOFT_buffer_length_query extension.
+        -- Added AL_SOFT_Source_start_delay extension.
+        -- Added AL_SOFT_UHJ_ex extension
+    - OpenCL: Added latest extension
+        -- cl_ext_image_from_buffer
+        -- cl_ext_image_requirements_info
+        -- cl_intel_bfloat16_conversions
+        -- cl_intel_split_work_group_barrier
+        -- cl intel_subgrup_matrix_multiplay_accumulate
+        -- cl_intel_subgrup_split_matrix_multplay_accumulate
+    - OpenGL: Added latest extensions.
+        -- GL_NV_uniform_buffer_std430_layout
+    - OpenVR: Updated to 2.36.7 (up from 1.23.7)
+    - OpenXR: Updated to 1.0.29 (up from 1.0.27)
+    - Opus: Updated to 1.4.0 (upfrom 1.3.1)
+    - Shaderc: Updated to 2023.6 (up from 2023.1)
+    - SPIRV-Cross: Updated to 0.57.0 (up from 0.51.0)
+    - tinyexr: Updated to 1.0.7 (up from 1.0.2)
+    - tinyfiledialogs: Updated to 3.13.3 (up from 3.9.0)
+    - Vulkan: Updated to 1.3.264 (up from 1.3.246)
+        -- Includes MoltenVK 1.2.5 (up from 1.2.3)
+    - xxhash: Updated to 0.8.2 (up from 0.8.1)
+    - Yoga: Updated to 2.0.0 (up from 1.19.0)
+    - Zstd: Updated to 1.5.5 (up from 1.5.4)
+        -- cl_intel_subgroup_split_matrix_multiplay_accumulate
+    - OpenGL; Added latest extensions.
+        -- GL_NV_uniform_buffer_std430_layout
+    - OpenVR: Updated to 1.26.7 (up from 1.23.7)
+    - OpenXR: Updated to 1.0.29(up from 1.0.27)
+    - Opus: Updated to 1.4.0 9up from 1.3.1)
+    - Shaderc: Updated to 2023.6 (up from 2023.3)
+    - SPIRV-Cross: Updated to 0.57.0 (up from 0.51.0)
+    - tnyexr: updated to 1.0.7 (up from 1.0.2)
+    - tinyfildialogs: Updated to 3.13.3 (up from 3.9.0)
+    - Vulkan: Updated to 1.3.264 (up from 1.3.246)
+        -- Includes MoltwnVK 1.2.5 (up from 1.2.3)
+    -xxhash: Updated to 0.8.2 (up from 0.8.1)
+    - Yoga: Updated to 2.0.0 (up from 1.19.0)
+    - Zstd: updated to 1.5.5 (up from 1.5.4)
